@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "title" : "Javascript Guide",
+        "author" : "Jhon Doe",
+        "image" : "images/jsbook.jfif",
+        "description" : "Un guide complet pour apprendre JavaScript moderne.",
+        "rating":4.2
+    },
+    {
+        "id" : 2,
+        "title" : "CSS Mastery",
+        "author" : "Anna Smith",
+        "image" : "images/cssbook.jfif",
+        "description" :"Maîtrisez le design responsive avec CSS3.",
+        "rating":4.5
+    },
+    {
+        "id" : 3,
+        "title" : "HTML & Web Design",
+        "author" : "Micheal",
+        "image" : "images/htmlbook.jfif",
+        "description" : "Les bases du web structuré.",
+        "rating":4.1
+    },
+    {
+        "id" : 4,
+        "title" : "Learning Bootstrap",
+        "author" : "Sarah",
+        "image" : "images/bootstrapbook.jfif",
+        "description" : "Les bases du web structuré.",
+        "rating":4.3
+    }
+]

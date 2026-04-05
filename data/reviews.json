@@ -1,0 +1,20 @@
+[
+  {
+    "bookId": 1,
+    "user": "Ali",
+    "rating": 5,
+    "comment": "Excellent livre pour comprendre JavaScript."
+  },
+  {
+    "bookId": 1,
+    "user": "Sara",
+    "rating": 4,
+    "comment": "Très clair et bien structuré."
+  },
+  {
+    "bookId": 2,
+    "user": "Hajar",
+    "rating": 5,
+    "comment": "Les exemples CSS sont magnifiques !"
+  }
+]

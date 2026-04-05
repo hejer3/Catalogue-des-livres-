@@ -1,0 +1,15 @@
+.card {
+    border-radius: 12px;
+    transition: 0.3s;
+}
+.card:hover {
+    box-shadow: 0 5px 15px ;
+    transform:translateX(-10px);
+}
+/*a utliser*/
+.bg-mauve {
+    background-color: #9c27b0 ; 
+}
+.btn-mauve{
+    background-color: #9c27b0 ;
+}
